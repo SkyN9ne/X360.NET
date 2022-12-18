@@ -1,20 +1,20 @@
-------- Legal Info -----
+----- Legal Info -----
 Microsoft, Xbox 360, and all other related occurences in the X360 Library is registerd to Microsoft (C)
 Any media, such as pictures or audio, belongs to the respected owners
 Cryptographic methods belong to the respected founders
 The programmer of X360.dll does not take credit for the invention of said objects, but merely rewriting them
 Microsoft, affiliates, and the programmer are not responsible for the actions and consequences one may use with this, only themselves
-------------------------
-- Terms and Conditions -
-This Library is protected under a GPL License, for more information, refer to:
-X360.PublicResources.GPL
-or http://www.gnu.org/
+
+
+----- Terms and Conditions -----
+This Library is protected under a GPL License, for more information, refer to <https://gnu.org/>
 
 Also, as represented by the GPL, any programs used by this must have an open sourced copy released wif it,which also means you are not allowed to make profit off this app (releasing open source would defeat the purpose anyways). You must not obfuscate or "Protect" my work, any code in here is modifiable (unless otherwise stated) except for the update related functions, TaC (Terms and Conditions), and licenses except by the sole creator of the license/terms, and finally, the creator reserves the right to cite the source of this library anywhere where this code is used or endorsed, meaning citing of website, name, etc.  The creator reserves the right to change the TaC from version to version.
-
 By using this library, you agree to these terms and conditions.  These words are not a law governed by countries, but a digital contract governed separately by each Country's own law reguarding contracts/EULA/Licenses.  If you have any questions or doubts to your Country's, law, please look it up before using this piece.  You (as a developer) are reliable for the use of this once you have been acknowledged of the TaC and License.
-------------------------
------- GNU License -----
+
+
+------ GNU GPL License -----
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
